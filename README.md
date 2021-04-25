@@ -25,7 +25,7 @@ We selected the dashoard on the report rate per region for Basel convention as a
 
 , and per ERS round (from 2001 to 2019 years).  
 
-##  Question 1: Does ERS documentation provide a detailed information on the data feed?
+##   1: Does ERS documentation provide a detailed information on the data feed?
 
 The answer is **NO**. The ERS feed provided vw_BC_Parties_ReportStatus endpoint which contains data for the target dashboard. The information about this endpoint is missing in the documentation. For getting information about this eendpoint I have to access the corresponding database directly.
 
@@ -35,5 +35,11 @@ The answer is **YES**. I have managed to build the dashboard based on the feed d
 
 ![dashboard](dashboard.jpg)
 
-[The PowerBI dashboard](ers.pbix)
+[The PowerBI dashboard source code](ers.pbix)
+
+## Question 3: Can we use PowerBI for producing configurable and user-friendly dashboards?
+
+The answer is *YES*. I found that PowerBI is a powerfull tool for building analitics dashboards based on the OData feeds provided by BRS Secretariat. PowerBI is highly convigurable and have a perfect User Experience interface.
+
+The caveat is that for sharing dashboard on the web PowerBI licence should support sharing feature. 
 
