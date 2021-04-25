@@ -12,6 +12,7 @@ Get answer on the following questions:
 1. ERS feed: http://ers.basel.int/ERSodataReports2/WcfERS_OdataService.svc
 2. [ERS feed documentation](Generic%20ODATA%20Feeds%20documentación%20V3%20-%20EN.pdf)
 3. PowerBI Desktop
+![PowerBi](PowerBI_About.jpg)
 
 ## Target dashboard
 We selected the dashoard on the report rate per region for Basel convention as a tarrget dashboard that we need to build at PowerBI. This dashboard should show report rate per region:
