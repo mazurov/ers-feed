@@ -4,12 +4,12 @@
 
 Verify that Microsoft PowerBI can be used for producing user-friendly configurable statistical dashboards for Electronic reporting systems (ERS) feeds.
 Get answer on the following questions:
-1. Does ERS documentation provide a detailed information on the data feed
-2. Do we have enough data in ERS feed.
-3. Can we use PowerBI for producing configurable and user-friendly dashboards
+1. Does ERS documentation provide a detailed information on the data feed?
+2. Do we have enough data in ERS feed?
+3. Can we use PowerBI for producing configurable and user-friendly dashboards?
 
 ## Input data and Tools
-1. ERS feed 
+1. ERS feed: http://ers.basel.int/ERSodataReports2/WcfERS_OdataService.svc
 2. ERS feed documentation
 3. PowerBI Desktop
 
@@ -23,5 +23,5 @@ We selected the dashoard on the report rate per region for Basel convention as a
 
 , and per ERS round (from 2001 to 2019 years).  
 
-Check if we can use PowerBI for building analytics dashboards based on the  
-http://ers.basel.int/ERSodataReports2/WcfERS_OdataService.svc
+##  Does ERS documentation provide a detailed information on the data feed
+
