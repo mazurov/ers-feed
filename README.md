@@ -33,4 +33,4 @@ The answer is **NO**. The ERS feed provided vw_BC_Parties_ReportStatus endpoint 
 
 The answer is **YES**. I have managed to build the dashboard based on the feed data.
 
-
+![dashboard](dashboard.jpg)
