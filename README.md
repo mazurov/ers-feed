@@ -25,5 +25,12 @@ We selected the dashoard on the report rate per region for Basel convention as a
 
 , and per ERS round (from 2001 to 2019 years).  
 
-##  Does ERS documentation provide a detailed information on the data feed
+##  Question 1: Does ERS documentation provide a detailed information on the data feed?
+
+The answer is **NO**. The ERS feed provided vw_BC_Parties_ReportStatus endpoint which contains data for the target dashboard. The information about this endpoint is missing in the documentation. For getting information about this eendpoint I have to access the corresponding database directly.
+
+##  Question 2: Do we have enough data in ERS feed??
+
+The answer is **YES**. I have managed to build the dashboard based on the feed data.
+
 
