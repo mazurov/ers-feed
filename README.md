@@ -39,7 +39,7 @@ The answer is **YES**. I have managed to build the dashboard based on the feed d
 
 ## Question 3: Can we use PowerBI for producing configurable and user-friendly dashboards?
 
-The answer is *YES*. I found that PowerBI is a powerfull tool for building analitics dashboards based on the OData feeds provided by BRS Secretariat. PowerBI is highly convigurable and have a perfect User Experience interface.
+The answer is **YES**. I found that PowerBI is a powerfull tool for building analitics dashboards based on the OData feeds provided by BRS Secretariat. PowerBI is highly convigurable and have a perfect User Experience interface.
 
 The caveat is that for sharing dashboard on the web PowerBI licence should support sharing feature. 
 
